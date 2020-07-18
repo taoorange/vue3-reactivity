@@ -1,0 +1,15 @@
+{
+  "name": "vue-reactivity",
+  "version": "1.0.0",
+  "description": "''\u001b[D'\u001b[Dlearn reactivity'",
+  "main": "index.js",
+  "scripts": {
+    "test": "''\u001b[Dtaotao'"
+  },
+  "author": "''\u001b[Dtaotao'",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/reactivity": "^3.0.0-rc.1",
+    "vue-next": "0.0.1"
+  }
+}
